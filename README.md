@@ -1,4 +1,4 @@
-#Test Angular Elements
+# Test Angular Elements
 ## Quickstart
 
 ```sh
@@ -11,7 +11,7 @@ npm run start
 ```
 
 
-#Demo Application
+# Demo Application
 ## createNg1Wrapper
 https://github.com/ErinCoughlan/create-ng1-wrapper
 Credit: @ErinCoughlan
