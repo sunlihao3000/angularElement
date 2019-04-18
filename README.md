@@ -1,15 +1,22 @@
-# NG1-CUSTOM-ELEMENTS-WRAPPER
-
+#Test Angular Elements
 ## Quickstart
 
 ```sh
 git https://github.com/siddharthpal/ng1-custom-elements-wrapper.git
-cd ng1-custom-elements-wrapper
 npm i && cd elements && npm i
 cd..
-npm run build:elements
+npm run build:ng1
 cd elements
 npm run start
 ```
-### app runs in  port 3000 (http://localhost:3000/)
+
+
+#Demo Application
+## createNg1Wrapper
+https://github.com/ErinCoughlan/create-ng1-wrapper
+Credit: @ErinCoughlan
+
+## A simple demo can be found here: https://create-ng1-wrapper-app.firebaseapp.com/
+Credit: @siddharthpal
+### app runs in  port 5007 (http://localhost:5007/)
 - [Live Demo](https://create-ng1-wrapper-app.firebaseapp.com/)
