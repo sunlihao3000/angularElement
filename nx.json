@@ -1,0 +1,21 @@
+{
+  "npmScope": "ng1-ce-wrapper",
+  "implicitDependencies": {
+    "angular.json": "*",
+    "package.json": "*",
+    "tsconfig.json": "*",
+    "tslint.json": "*",
+    "nx.json": "*"
+  },
+  "projects": {
+    "greet": {
+      "tags": []
+    },
+    "hello-world": {
+      "tags": []
+    },
+    "hello-world-e2e": {
+      "tags": []
+    }
+  }
+}

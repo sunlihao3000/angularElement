@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "dev": "create-ng1-wrapper-app",
+    "default": "create-ng1-wrapper-app"
+  }
+}
