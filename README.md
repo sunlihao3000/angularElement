@@ -3,7 +3,7 @@
 
 ```sh
 git https://github.com/siddharthpal/ng1-custom-elements-wrapper.git
-npm i && cd elements && npm i
+npm i && cd ng1 && npm i
 cd..
 npm run build:ng1
 cd elements
