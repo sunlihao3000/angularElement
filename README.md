@@ -5,7 +5,7 @@
 npm i && cd ng1 && npm i
 cd..
 npm run build:ng1
-cd elements
+cd ng1
 npm run start
 ```
 
