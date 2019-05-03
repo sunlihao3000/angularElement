@@ -16,6 +16,7 @@ import * as angular from 'angular';
 })
 export class GreetModule {
   //ng1
+
   constructor(private injector: Injector) {
   }
 
