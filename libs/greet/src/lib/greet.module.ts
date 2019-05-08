@@ -17,8 +17,8 @@ import * as angular from 'angular';
 export class GreetModule {
   //ng1
 
-  constructor(private injector: Injector) {
-  }
+  // constructor(private injector: Injector) {
+  // }
 
   ngDoBootstrap() {
     const elements: any[] = [[GreetComponent, 'greet-ce']];
